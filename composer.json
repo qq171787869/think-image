@@ -1,0 +1,21 @@
+{
+    "name": "qq171787869/think-image",
+    "description": "based on think-image",
+    "type": "library",
+    "license": "Apache-2.0",
+     "authors": [
+        {
+            "name": "qq171787869",
+            "email": "171787869@qq.com",
+            "homepage": "https://www.xyg.cool/"
+        }
+    ],
+    "require": {
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        }
+    }
+}
